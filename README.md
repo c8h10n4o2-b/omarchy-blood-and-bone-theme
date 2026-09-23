@@ -58,7 +58,7 @@ omarchy theme set blood-and-bone
 
 ## Wallpapers
 
-Eight final pirate backgrounds are included, unchanged from the completed theme. Each PNG is **1916 × 821**. Displays with a different aspect ratio may crop the image; larger displays scale it up.
+Eight final pirate backgrounds are included, unchanged from the completed theme. Each PNG is **5120 × 1440**, suited to 32:9 ultrawide displays. Displays with a different aspect ratio may crop the image; larger displays scale it up.
 
 | File | Scene |
 | --- | --- |
@@ -106,7 +106,7 @@ To restore a particular previous appearance, select that theme and use `omarchy 
 
 ## Attribution and license
 
-Theme packaged and published by **c8h10n4o2-b**. The palette and shell styling were developed with AI assistance; the final wallpaper collection was supplied by the maintainer for this theme, including the generated Omarchy Pirate Flag. The preview combines that unchanged flag image with the theme's name and palette.
+Theme packaged and published by **c8h10n4o2-b**. The palette and shell styling were developed with AI assistance; the final wallpaper collection was supplied by the maintainer for this theme, including the generated Omarchy Pirate Flag. The 16:9 preview combines the original flag artwork with the theme's name and palette; the downloadable wallpapers use the updated ultrawide versions.
 
 The repository is distributed under the [MIT License](LICENSE), covering the theme files, documentation and supplied artwork to the extent of the maintainer's rights. No trademark rights are granted. Omarchy and referenced literary or entertainment properties remain associated with their respective owners; this is an independent community theme, not an official or endorsed release. No third-party wallpaper attribution was supplied with the final collection.
 
