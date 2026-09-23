@@ -89,6 +89,10 @@ Packaged for **Omarchy 4.0.4-1** and its current palette-driven Quickshell theme
 
 Reapply the theme after an Omarchy update to regenerate application files using the updated templates. Personal user templates and hooks can affect appearance. The normal Omarchy lockscreen layout is retained; no custom unlock image is provided.
 
+## Installation verification
+
+The initial release was tested with the stock Omarchy 4.0.4-1 installer against this repository's GitHub URL, using an isolated temporary home and Omarchy's headless theme mode. The clone, palette, all eight background checksums, merged menu sections, generated application configs and default background selection passed validation. The test did not reload a live desktop or exercise lockscreen authentication.
+
 ## Remove or switch back
 
 Choose a different installed theme first. For example, to switch to Catppuccin and remove Blood and Bone:
