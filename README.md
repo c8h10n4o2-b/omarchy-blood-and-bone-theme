@@ -77,6 +77,10 @@ Use Omarchy's background picker or cycle with:
 omarchy theme bg next
 ```
 
+## Optional skull About logo
+
+Want the skull inside the Omarchy About logo? See the [optional About customization guide](extras/about/README.md) for the artwork, bone-white Fastfetch settings, window sizing, backups and rollback. This is a manual user customization and is not applied by installing or switching the theme.
+
 ## Compatibility and design
 
 Packaged for **Omarchy 4.0.4-1** and its current palette-driven Quickshell theme system. Earlier releases with different theme schemas are not tested.
@@ -102,7 +106,7 @@ omarchy theme set catppuccin
 omarchy theme remove blood-and-bone
 ```
 
-To restore a particular previous appearance, select that theme and use `omarchy theme bg set` with your saved wallpaper path. This repository does not install hooks or edit upstream configuration, so no additional configuration cleanup is required.
+To restore a particular previous appearance, select that theme and use `omarchy theme bg set` with your saved wallpaper path. This repository does not install hooks or edit upstream configuration, so no additional configuration cleanup is required for the theme itself. If you installed the optional About customization, follow its separate rollback instructions.
 
 ## Attribution and license
 
