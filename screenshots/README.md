@@ -10,6 +10,12 @@ Blood-red window borders and the themed btop system monitor over the Ghost Ship 
 
 ![Ghost Ship in a Storm wallpaper with btop and the status bar](ghost-ship-btop.png)
 
+## Ultrawide application workspace
+
+A wide workspace showing music, file management, office tools, calculator and a browser. Individual applications and integrations are not bundled with the theme.
+
+![Ultrawide desktop with several applications using dark surfaces and red accents](ultrawide-applications.png)
+
 ## Fortress harbor and skull About logo
 
 The Pirate Fortress Harbor wallpaper with the optional bone-white skull About customization.

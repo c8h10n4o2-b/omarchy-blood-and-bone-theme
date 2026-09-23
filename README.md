@@ -10,7 +10,7 @@ Inspired by the atmosphere of **A General History of the Robberies and Murders o
 
 ## Desktop screenshots
 
-See the [reference screenshot gallery](screenshots/README.md) for the ghost-ship desktop with btop and the fortress-harbor desktop with the optional skull About logo. Screenshots show the maintainer’s customized setup; optional applications and integrations are not installed by the theme.
+See the [reference screenshot gallery](screenshots/README.md) for the ghost-ship desktop with btop, an ultrawide application workspace, and the fortress-harbor desktop with the optional skull About logo. Screenshots show the maintainer’s customized setup; optional applications and integrations are not installed by the theme.
 
 ## Palette
 
