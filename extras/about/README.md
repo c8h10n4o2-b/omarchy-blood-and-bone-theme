@@ -1,5 +1,9 @@
 # Optional skull About logo
 
+![Omarchy About window with the bone-white skull logo and system information](skull-about-screenshot.png)
+
+*Example appearance with the optional skull artwork and bone-white Fastfetch logo colour. System details vary by machine.*
+
 Add a bone-white skull inside the Omarchy outline to the About screen. This is an **optional, global user customization**, not an automatically applied theme feature. It remains when switching themes, and removing the theme does not undo it.
 
 Tested with Omarchy 4.0.4-1, Fastfetch, Foot and a 9pt terminal font. The supplied `about.txt` is 54 columns × 26 rows and contains no escape sequences. Keep colour settings in Fastfetch: embedded ANSI sequences are counted by this Omarchy version's About sizing code and can produce an extremely wide window.
