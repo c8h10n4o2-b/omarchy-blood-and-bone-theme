@@ -62,18 +62,18 @@ omarchy theme set blood-and-bone
 
 ## Wallpapers
 
-Eight final pirate backgrounds are included, unchanged from the completed theme. Each PNG is **5120 × 1440**, suited to 32:9 ultrawide displays. Displays with a different aspect ratio may crop the image; larger displays scale it up.
+Eight pirate backgrounds are included, all with a **32:9 ultrawide** aspect ratio. Seven are compressed WebP images at **3840 × 1080**; the minimal black flag remains a **5120 × 1440** PNG. Together they total about **4.0 MB**. Displays with a different aspect ratio may crop the image; larger displays scale it up.
 
 | File | Scene |
 | --- | --- |
-| [01-omarchy-pirate-flag.png](backgrounds/01-omarchy-pirate-flag.png) | Weathered flag; default background |
+| [01-omarchy-pirate-flag.webp](backgrounds/01-omarchy-pirate-flag.webp) | Weathered flag; default background |
 | [02-black-flag-minimal.png](backgrounds/02-black-flag-minimal.png) | Minimal black flag |
-| [03-moonlit-smugglers-cove.png](backgrounds/03-moonlit-smugglers-cove.png) | Moonlit smugglers' cove |
-| [04-pirate-fortress-harbor.png](backgrounds/04-pirate-fortress-harbor.png) | Fortress harbor |
-| [05-cartographers-black-map.png](backgrounds/05-cartographers-black-map.png) | Dark cartography |
-| [06-ghost-ship-in-a-storm.png](backgrounds/06-ghost-ship-in-a-storm.png) | Ghost ship in a storm |
-| [07-treasure-map-tabletop-clean-layout.png](backgrounds/07-treasure-map-tabletop-clean-layout.png) | Treasure-map tabletop |
-| [08-kraken-rising.png](backgrounds/08-kraken-rising.png) | Kraken rising |
+| [03-moonlit-smugglers-cove.webp](backgrounds/03-moonlit-smugglers-cove.webp) | Moonlit smugglers' cove |
+| [04-pirate-fortress-harbor.webp](backgrounds/04-pirate-fortress-harbor.webp) | Fortress harbor |
+| [05-cartographers-black-map.webp](backgrounds/05-cartographers-black-map.webp) | Dark cartography |
+| [06-ghost-ship-in-a-storm.webp](backgrounds/06-ghost-ship-in-a-storm.webp) | Ghost ship in a storm |
+| [07-treasure-map-tabletop-clean-layout.webp](backgrounds/07-treasure-map-tabletop-clean-layout.webp) | Treasure-map tabletop |
+| [08-kraken-rising.webp](backgrounds/08-kraken-rising.webp) | Kraken rising |
 
 Use Omarchy's background picker or cycle with:
 
