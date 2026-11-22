@@ -81,6 +81,34 @@ Use Omarchy's background picker or cycle with:
 omarchy theme bg next
 ```
 
+## Animated pirate flag intro (Omarchy 4.5+)
+
+Blood and Bone includes a seven-second animated introduction
+for its default pirate flag wallpaper.
+
+The flag ripples briefly in the wind as lightning flashes
+through the storm clouds.
+
+**Animation specifications:**
+- Resolution: 3840 × 1080
+- Frame rate: 30 fps
+- Duration: 7 seconds
+- Format: H.264 MP4, no audio
+- Playback: Once, followed by the static wallpaper
+
+The animation uses Omarchy 4.5's native theme intro mechanism.
+
+The paired files are:
+
+- `backgrounds/01-omarchy-pirate-flag.webp`
+- `backgrounds/intros/01-omarchy-pirate-flag.mp4`
+
+No additional plugins, scripts or configuration are required.
+
+The other seven wallpapers remain static.
+
+---
+
 ## Optional skull About logo
 
 Want the skull inside the Omarchy About logo? See the [optional About customization guide](extras/about/README.md) for the artwork, bone-white Fastfetch settings, window sizing, backups and rollback. This is a manual user customization and is not applied by installing or switching the theme.
